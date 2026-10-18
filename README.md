@@ -13,6 +13,6 @@
 
 实现代码和 PR 放在 `peach-mitao/peach`。PR 正文使用独立关联行，例如 `Refs peach-mitao/peach-roadmap#1`。仓库名与编号共同标识任务，GitHub 的 Issue 关联和完整 Issue URL 也可使用。
 
-PR 合入后，开放任务进入待验证；有下载制品的版本实际包含实现后，看板填写发布版本。完成验收再关闭 Issue。应用仓库事件触发同步，并每 15 分钟检查两个仓库；本仓库不保存看板凭据。
+PR 合入后，开放任务进入待验证；有下载制品的版本实际包含实现后，看板填写发布版本。完成验收再关闭 Issue。应用仓库事件触发同步，并每 6 小时检查两个仓库；本仓库不保存看板凭据。
 
 任务类型、标签、优先级和验收范围见各 Issue；[同步规则](https://github.com/peach-mitao/peach/blob/master/docs/PROJECT_BOARD.md)见应用仓库文档。
