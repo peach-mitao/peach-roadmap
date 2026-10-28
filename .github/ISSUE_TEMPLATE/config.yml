@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 缺陷报告与功能建议 / Bug reports and feature requests
+    url: https://github.com/peach-mitao/peach/issues/new/choose
+    about: 使用中遇到的问题与新想法请到应用仓库反馈。 / Report problems and ideas in the app repository.
+  - name: 路线图看板 / Roadmap board
+    url: https://github.com/orgs/peach-mitao/projects/7
+    about: 查看计划与进度。 / See plans and progress.
